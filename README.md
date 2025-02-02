@@ -1,2 +1,3 @@
 # FruitImageProcessing
 My project using python to detect input image ex:fruit,...
+Im using data from Kaggle: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
